@@ -24,5 +24,16 @@ Leverages .NET 10’s top-level statements and file-level directives—no `.cspr
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## ⚙️ Usage
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/your-username/dotnet-seed-script.git
+cd dotnet-seed-script
+dotnet run seed.cs
+
 
